@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Temperature Converter</string>
+    <string name="text_label_CtoF">Celsius (°C) → Fahrenheit (°F)</string>
+    <string name="text_label_FtoC">Fahrenheit (°F) → Celsius (°C)</string>
+    <string name="text_label_hint">Enter Here</string>
+    <string name="button_label_giude">Enter the Temperature:</string>
+    <string name="button_label_convert">Convert</string>
+    <string name="button_label_clear">Clear</string>
+</resources>
